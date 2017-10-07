@@ -2,9 +2,10 @@
 I am Audrey, Caroline, Andrew, and Tiffany's scheduling slackbot. 
 
 ## Overview
-what? a language-aware intellegent Slack bot for scheduling reminders and meetings with other Slack users in Google Calendar
-who? me and three other programmers from my summer coding bootcamp
-how? our application was built on top of three APIs including the Slack API,  the Google Calendar API, and API.AI's language processing API
+# What? 
+a language-aware intellegent Slack bot for scheduling reminders and meetings with other Slack users in Google Calendar
+# How? 
+our application was built on top of three APIs including the Slack API,  the Google Calendar API, and API.AI's language processing API
 
 A team of three other programmers and I spent a week building a language-aware Slack bot for scheduling reminders and meetings with other Slack users. The application combined multiple APIs including the Slack API,  the Google Calendar API, and API.AI's language processing API. Some highlights and challenges of the project included handling asynchronous code, integration of multiple APIs, working on a team, and deploying to production. 
 
